@@ -1,0 +1,2 @@
+Python is easy to learn.
+Data Science is very interesting.
